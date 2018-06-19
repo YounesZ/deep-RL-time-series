@@ -16,8 +16,8 @@ class Sampler:
 
 	def load_db(self, fld):
 
-		self.db = pickle.load(open(os.path.join(fld, 'db.pickle'),'rb'))
-		param = json.load(open(os.path.join(fld, 'param.json'),'rb'))
+		self.db	= pickle.load(open(os.path.join(fld, 'db.pickle'),'rb'))
+		param = json.load(open(os.path.join(fld, 'param.json'),'r'))
 		self.i_db = 0
 		self.n_db = param['n_episodes']
 		self.sample = self.__sample_db

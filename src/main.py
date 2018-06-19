@@ -76,7 +76,9 @@ def main():
 	n_episode_testing = 100
 	open_cost = 3.3
 	#db_type = 'SinSamplerDB'; db = 'concat_half_base_'; Sampler = SinSampler
-	db_type = 'PairSamplerDB'; db = 'randjump_100,1(10, 30)[]_'; Sampler = PairSampler
+	db_type = 'PairSamplerDB'
+	db = 'randjump_100,1(10, 30)[]_'
+	Sampler = PairSampler
 	batch_size = 8
 	learning_rate = 1e-4
 	discount_factor = 0.8
