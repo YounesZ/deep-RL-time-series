@@ -1,4 +1,4 @@
-from lib import *
+from src.lib import *
 
 
 
@@ -51,12 +51,12 @@ class Visualizer:
 		
 		style = ['k','r','b']
 		qq = []
-		for t in xrange(env.t0):
+		for t in range(env.t0):
 			qq.append([np.nan] * self.n_action)
-		for t in xrange(env.t0, env.t_max):
+		for t in range(env.t0, env.t_max):
 			qq.append(model.predict(env.get_state(t))) 
-		for i in xrange(self.n_action):
-			ax_Q.plot([float(qq[t][i]) for t in xrange(len(qq))], 
+		for i in range(self.n_action):
+			ax_Q.plot([float(qq[t][i]) for t in range(len(qq))],
 				style[i], label=self.action_labels[i])
 		ax_Q.set_ylabel('Q')
 		ax_Q.legend(loc='best', frameon=False)

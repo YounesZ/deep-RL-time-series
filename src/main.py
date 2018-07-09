@@ -1,11 +1,11 @@
 #!/usr/bin/env python2
 
-from lib import *
-from sampler import *
-from agents import *
-from emulator import *
-from simulators import *
-from visualizer import *
+from src.lib import *
+from src.sampler import *
+from src.agents import *
+from src.emulator import *
+from src.simulators import *
+from src.visualizer import *
 
 
 def get_model(model_type, env, learning_rate, fld_load):
@@ -71,21 +71,25 @@ def main():
 	it is recommended to generate database usng sampler.py before run main
 	"""
 
-	model_type = 'conv'; exploration_init = 1.; fld_load = None
-	n_episode_training = 1000
+	model_type = 'MLP'; exploration_init = 1.; fld_load = None
+	n_episode_training = 200
 	n_episode_testing = 100
 	open_cost = 3.3
 	#db_type = 'SinSamplerDB'; db = 'concat_half_base_'; Sampler = SinSampler
-	db_type = 'PairSamplerDB'; db = 'randjump_100,1(10, 30)[]_'; Sampler = PairSampler
-	batch_size = 8
-	learning_rate = 1e-4
-	discount_factor = 0.8
+	db_type = 	'BTCsampler'
+	db 		= 	'db_bitcoin.pickle'
+	Sampler = 	BTCsampler
+	batch_size 		= 	8
+	learning_rate 	= 	1e-4
+	discount_factor = 	0.8
 	exploration_decay = 0.99
-	exploration_min = 0.01
-	window_state = 40
+	exploration_min = 	0.01
+	window_state 	= 	33
 
-	fld = os.path.join('..','data',db_type,db+'A')
-	sampler = Sampler('load', fld=fld)
+	fld = os.path.join('..', 'data', db_type, db + 'A')
+	if db_type == 'BTCsampler':
+		fld = os.path.join('..', 'data',db_type,db)
+	sampler = Sampler('load', fld=fld, variables=['Close'])
 	env = Market(sampler, window_state, open_cost)
 	model, print_t = get_model(model_type, env, learning_rate, fld_load)
 	model.model.summary()

@@ -1,4 +1,5 @@
-from lib import *
+from src.lib import *
+from scripts.dwt_no_edge_effects import dwt_no_edge_effects
 
 # by Xiang Gao, 2018
 
@@ -29,13 +30,13 @@ class Market:
 					2: 	keep a position
 	"""
 	
-	def reset(self, rand_price=True):
+	def reset(self, rand_price=True, training=True):
 		self.empty = True
 		if rand_price:
-			prices, self.title = self.sampler.sample()
+			prices, self.title = self.sampler.sample(training=training)
 			price = np.reshape(prices[:,0], prices.shape[0])
 
-			self.prices = prices.copy()
+			self.prices= prices.copy()
 			self.price = price/price[0]*100
 			self.t_max = len(self.price) - 1
 
@@ -48,9 +49,16 @@ class Market:
 		if t is None:
 			t = self.t
 		state = self.prices[t - self.window_state + 1: t + 1, :].copy()
-		for i in range(self.sampler.n_var):
-			norm = np.mean(state[:,i])
-			state[:,i] = (state[:,i]/norm - 1.)*100	
+		# --- Time-Differentiation
+		if self.sampler.time_difference:
+			state	=	state[1:,:] - state[:-1,:]
+		else:
+			for i in range(self.sampler.n_var):
+				norm = np.mean(state[:,i])
+				state[:,i] = (state[:,i]/norm - 1.)*100
+		# --- Wavelet-transform
+		nWav 	=	int( np.log(len(state))/np.log(2) - 1 )
+		state 	=	dwt_no_edge_effects(state, nlevels=4)
 		return state
 
 	def get_valid_actions(self):
@@ -68,7 +76,7 @@ class Market:
 		reward = self.direction * (self.price[t+1] - self.price[t])
 		if empty:
 			reward -= self.open_cost
-		if reward < 0:
+		if reward < 0:		# Amplification factor for negative reward: risk aversion
 			reward *= (1. + self.risk_averse)
 		return reward
 
@@ -84,6 +92,7 @@ class Market:
 			self.empty = False
 		elif action == 2:	# keep
 			reward = self.get_noncash_reward()
+
 		else:
 			raise ValueError('no such action: '+str(action))
 
@@ -95,15 +104,15 @@ class Market:
 		sampler, window_state, open_cost,
 		direction=1., risk_averse=0.):
 
-		self.sampler = sampler
-		self.window_state = window_state
-		self.open_cost = open_cost
-		self.direction = direction
-		self.risk_averse = risk_averse
+		self.sampler 		= 	sampler
+		self.window_state 	= 	window_state
+		self.open_cost 		= 	open_cost
+		self.direction 		= 	direction
+		self.risk_averse 	= 	risk_averse
 
-		self.n_action = 3
-		self.state_shape = (window_state, self.sampler.n_var)
-		self.action_labels = ['empty','open','keep']
+		self.n_action 		= 	3
+		self.state_shape 	= 	(window_state, self.sampler.n_var)
+		self.action_labels 	= 	['empty','open','keep']
 		self.t0 = window_state - 1
 
 

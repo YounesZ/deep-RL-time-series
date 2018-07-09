@@ -1,4 +1,4 @@
-from lib import *
+from src.lib import *
 
 
 
@@ -6,7 +6,7 @@ class Simulator:
 
 	def play_one_episode(self, exploration, training=True, rand_price=True, print_t=False):
 
-		state, valid_actions = self.env.reset(rand_price=rand_price)
+		state, valid_actions = self.env.reset(rand_price=rand_price, training=training)
 		done = False
 		env_t = 0
 		try:
@@ -136,7 +136,6 @@ class Simulator:
 			if n%save_per_episode == 0:
 				print('saving results...')
 
-				"""
 				self.visualizer.plot_a_episode(
 					self.env, self.agent.model, 
 					[np.nan]*len(safe_cum_rewards), [np.nan]*len(safe_actions),
@@ -147,7 +146,8 @@ class Simulator:
 					None, safe_total_rewards, None, 
 					os.path.join(fld_save, 'total_rewards.png'),
 					MA_window)
-					"""
+
+
 					
 
 
