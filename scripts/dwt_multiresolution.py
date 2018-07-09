@@ -13,6 +13,7 @@ def dwt_multiresolution(data, wtype='sym2', nlevels=5):
     cd  =   []
     for i in range(nlevels):
         (a, d)  =   pywt.dwt(a, w, mode='per', axis=0)
+        cut     =   int( len(a)/4 )
         ca.append(a)
         cd.append(d)
     # iWavelet transform: wavelet coefficients
