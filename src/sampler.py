@@ -136,7 +136,8 @@ class PairSampler(Sampler):
 
 class BTCsampler(Sampler):
 
-	def __init__(self, load_db, fld=None, window_training_episode=168, window_testing_episode=48, downsample_factor=[10, 6], wavelet_channels=0, variables=None):
+	def __init__(self, load_db, fld=None, window_training_episode=168, window_testing_episode=48,
+				 downsample_factor=[10, 6], wavelet_channels=0, variables=None):
 		self.n_var 	=	1	# Price only
 
 		self.window_training_episode 	=	window_training_episode
@@ -145,7 +146,6 @@ class BTCsampler(Sampler):
 		self.window_episode 			=	window_training_episode
 		self.variables 					=	variables
 		self.downsample_factor 			=	downsample_factor
-		self.time_difference 			=	True
 
 		suffix1 	=	'_training{}_testing{}'.format(window_training_episode, window_testing_episode)
 		suffix2 	=	'_wavCh{}'.format(wavelet_channels)
@@ -197,25 +197,31 @@ class BTCsampler(Sampler):
 		return
 
 	def load_db(self, fld):
-		self.db	=	pickle.load( open(fld,'rb') )
-		self.i_dbtrain	=	0
-		self.i_dbtest 	=	0
-		self.n_db 		= 	len(self.db[0])
+		self.db		=	pickle.load( open(fld,'rb') )
+		self.n_db 	= len(self.db[0])
+		self.i_dbtrain	=	np.random.randint( self.n_db )	# 0
+		self.i_dbtest 	=	np.random.randint( self.n_db )	# 0
 		self.sample 	= 	self.__sample_db
 
 	def __sample_db(self, training=True):
 		if training:
 			prices 	=	self.db[0][self.i_dbtrain]
 			title 	=	'bitcoin_episode{}'.format(self.i_dbtrain)
+			self.i_dbtrain 	=	np.random.randint( self.n_db )
+			"""
 			self.i_dbtrain 	+=	1
 			if self.i_dbtrain	==	self.n_db:
 				self.i_dbtrain 	= 	0
+			"""
 		else: 	# Testing mode
 			prices 	= 	self.db[1][self.i_dbtest]
 			title 	= 	'bitcoin_episode{}'.format(self.i_dbtest)
+			self.i_dbtest 	=	np.random.randint( self.n_db )
+			"""
 			self.i_dbtest	+=	1
 			if self.i_dbtest	==	self.n_db:
 				self.i_dbtest 	= 	0
+			"""
 		return prices.values, title
 
 
@@ -225,7 +231,7 @@ class SinSampler(Sampler):
 
 	def __init__(self, game, 
 		window_episode=None, noise_amplitude_ratio=None, period_range=None, amplitude_range=None,
-		fld=None):
+		fld=None, variables=[]):
 
 		self.n_var = 1	# price only
 
@@ -317,7 +323,7 @@ class SinSampler(Sampler):
 		prices.append(p[:self.window_episode] + base)
 		return np.array(prices).T, 'concat sin + base: '+base_title
 			
-	def __sample_single_sin(self):
+	def __sample_single_sin(self, training=False):
 		prices = []
 		funcs = []
 		p, func = self.__rand_sin(full_episode=True)

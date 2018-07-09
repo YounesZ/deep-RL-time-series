@@ -3,12 +3,13 @@ from src.lib import *
 class Agent:
 
 	def __init__(self, model, 
-		batch_size=32, discount_factor=0.95):
+		batch_size=32, discount_factor=0.95, buffer_size=200):
 
-		self.model = model
-		self.batch_size = batch_size
-		self.discount_factor = discount_factor
-		self.memory = []
+		self.model 			= 	model
+		self.batch_size 	= 	batch_size
+		self.discount_factor= 	discount_factor
+		self.memory 		= 	[]
+		self.buffer_size	=	buffer_size
 
 
 	def remember(self, state, action, reward, next_state, done, next_valid_actions):
@@ -16,12 +17,13 @@ class Agent:
 
 
 	def replay(self):
-		batch = random.sample(self.memory, min(len(self.memory), self.batch_size))
-		for state, action, reward, next_state, done, next_valid_actions in batch:
-			q = reward
-			if not done:
-				q += self.discount_factor * np.nanmax(self.get_q_valid(next_state, next_valid_actions))
-			self.model.fit(state, action, q)
+		if len(self.memory)>self.buffer_size:
+			batch = random.sample(self.memory, min(len(self.memory), self.batch_size))
+			for state, action, reward, next_state, done, next_valid_actions in batch:
+				q = reward
+				if not done:
+					q += self.discount_factor * np.nanmax(self.get_q_valid(next_state, next_valid_actions))
+				self.model.fit(state, action, q)
 
 
 	def get_q_valid(self, state, valid_actions):
@@ -33,7 +35,7 @@ class Agent:
 
 
 	def act(self, state, exploration, valid_actions):
-		if np.random.random() > exploration:
+		if np.random.random() < exploration:
 			q_valid = self.get_q_valid(state, valid_actions)
 			if np.nanmin(q_valid) != np.nanmax(q_valid):
 				return np.nanargmax(q_valid)

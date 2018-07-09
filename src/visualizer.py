@@ -70,7 +70,7 @@ class Visualizer:
 
 	def plot_episodes(self, 
 		explored_total_rewards, safe_total_rewards, explorations, 
-		fig_path, MA_window=100):
+		fig_path, MA_window=10):
 
 		f = plt.figure(figsize=(14,10))	# width, height in inch (100 pixel)
 		if explored_total_rewards is None:

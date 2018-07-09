@@ -48,18 +48,20 @@ class Market:
 	def get_state(self, t=None):
 		if t is None:
 			t = self.t
-		state = self.prices[t - self.window_state + 1: t + 1, :].copy()
+		state = self.prices[t - self.window_state - self.time_difference: t, :].copy()
 		# --- Time-Differentiation
-		if self.sampler.time_difference:
+		if self.time_difference:
 			state	=	state[1:,:] - state[:-1,:]
 		else:
 			for i in range(self.sampler.n_var):
-				norm = np.mean(state[:,i])
+				norm= 	np.mean(state[:,i])
 				state[:,i] = (state[:,i]/norm - 1.)*100
 		# --- Wavelet-transform
-		nWav 	=	int( np.log(len(state))/np.log(2) - 1 )
-		state 	=	dwt_no_edge_effects(state, nlevels=4)
+		if self.wavelet_transform:
+			nWav 	=	int( np.log(len(state))/np.log(2) - 1 )
+			state 	=	dwt_no_edge_effects(state, nlevels=4)
 		return state
+
 
 	def get_valid_actions(self):
 		if self.empty:
@@ -102,18 +104,21 @@ class Market:
 
 	def __init__(self, 
 		sampler, window_state, open_cost,
-		direction=1., risk_averse=0.):
+		direction=1., risk_averse=0.,
+		time_difference=True, wavelet_transform=True):
 
 		self.sampler 		= 	sampler
 		self.window_state 	= 	window_state
 		self.open_cost 		= 	open_cost
 		self.direction 		= 	direction
 		self.risk_averse 	= 	risk_averse
+		self.time_difference= 	time_difference
+		self.wavelet_transform=	wavelet_transform
 
 		self.n_action 		= 	3
 		self.state_shape 	= 	(window_state, self.sampler.n_var)
 		self.action_labels 	= 	['empty','open','keep']
-		self.t0 = window_state - 1
+		self.t0 = window_state + self.time_difference
 
 
 if __name__ == '__main__':

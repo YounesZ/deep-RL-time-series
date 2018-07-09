@@ -20,8 +20,10 @@ def dwt_no_edge_effects(data, padding_type='mirror', pad_size=0.5, wtype='sym2',
     dwt     =   dwt_multiresolution(data_p, wtype, nlevels)
 
     # --- UN-PAD SIGNAL
-    dwt     =   [x[pad_size:-pad_size] for x in dwt]
-    assert len(dwt[0])==len(data)
+    padsz   =   np.divide(dataL, np.power(2, range(2, nlevels + 2)))
+    padsz   =   np.insert(padsz, -1, padsz[-1])
+    dwt     =   np.vstack( [x[int(y):-int(y)] for x,y in zip(dwt, padsz)] )
+    assert len(dwt)==len(data)
     return dwt
 
 

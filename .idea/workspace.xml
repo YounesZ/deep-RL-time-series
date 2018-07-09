@@ -1,7 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4915cdc9-7f23-4700-8e3a-5bc46c08c970" name="Default" comment="" />
+    <list default="true" id="bbd6f5f3-bb3d-4815-8449-935b239115b2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_0.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_1.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_10.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_11.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_12.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_13.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_14.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_15.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_16.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_17.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_18.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_19.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_2.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_20.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_21.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_22.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_23.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_23.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_24.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_25.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_25.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_26.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_26.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_27.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_27.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_28.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_29.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_29.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_3.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_30.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_30.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_31.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_32.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_33.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_34.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_34.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_35.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_36.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_37.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_38.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_39.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_4.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_40.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_41.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_42.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_43.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_44.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_45.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_45.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_46.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_46.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_47.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_47.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_48.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_49.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_49.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_5.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_50.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_50.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_51.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_51.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_52.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_52.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_53.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_53.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_54.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_54.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_55.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_55.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_56.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_56.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_57.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_58.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_58.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_59.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_59.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_6.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_60.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_61.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_61.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_62.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_62.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_63.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_63.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_64.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_64.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_65.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_65.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_66.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_66.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_67.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_67.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_68.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_68.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_69.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_69.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_7.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_70.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_70.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_71.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_71.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_72.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_73.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_73.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_74.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_74.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_75.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_75.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_76.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_77.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_77.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_78.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_78.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_79.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_79.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_8.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_80.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_80.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_81.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_81.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_82.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_82.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_83.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_83.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_84.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_84.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_85.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_85.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_86.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_86.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_87.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_87.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_88.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_88.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_89.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_89.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_9.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_90.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_90.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_91.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_91.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_92.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_92.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_93.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_93.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_94.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_94.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_95.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_95.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_96.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_97.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_97.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_98.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_98.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_99.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/episode_99.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/total_rewards.png" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/total_rewards.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/Qmodel_attr.pickle" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/Qmodel_attr.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/weights.hdf5" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/weights.hdf5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RL_trading.iml" afterPath="$PROJECT_DIR$/.idea/RL_trading.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/record.csv" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/in-sample testing/record.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/model.json" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/model/model.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/training/record.csv" afterPath="$PROJECT_DIR$/results/BTC_training168_testing48_wavCh0_downsampled60x/MLP[16, 16, 16, 16, 16]/(32, 168, 8, 0.0001, 0.8, 0.99, 3.3)/training/record.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/dwt_multiresolution.py" afterPath="$PROJECT_DIR$/scripts/dwt_multiresolution.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/dwt_no_edge_effects.py" afterPath="$PROJECT_DIR$/scripts/dwt_no_edge_effects.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/agents.py" afterPath="$PROJECT_DIR$/src/agents.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/emulator.py" afterPath="$PROJECT_DIR$/src/emulator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.py" afterPath="$PROJECT_DIR$/src/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sampler.py" afterPath="$PROJECT_DIR$/src/sampler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/simulators.py" afterPath="$PROJECT_DIR$/src/simulators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/visualizer.py" afterPath="$PROJECT_DIR$/src/visualizer.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,33 +128,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="345">
+              <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+              <folding>
+                <element signature="e#243#1609#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/tensorflow/lib/python3.5/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dwt_no_edge_effects.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/dwt_no_edge_effects.py">
+      <file leaf-file-name="simulators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simulators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="432">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dwt_multiresolution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/dwt_multiresolution.py">
+      <file leaf-file-name="sampler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sampler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="218">
+              <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#1414#4054#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +177,8 @@
       <file leaf-file-name="emulator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/emulator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -53,7 +186,96 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agents.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/agents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#1812#3267#0" expanded="false" />
+                <element signature="e#4019#4795#0" expanded="false" />
+                <element signature="e#4831#5055#0" expanded="false" />
+                <element signature="e#5087#5309#0" expanded="false" />
+                <element signature="e#5345#6516#0" expanded="false" />
+                <element signature="e#6557#7665#0" expanded="false" />
+                <element signature="e#7708#8044#0" expanded="false" />
+                <element signature="e#8084#8418#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dwt_no_edge_effects.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/dwt_no_edge_effects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visualizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/visualizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="72" column="30" lean-forward="false" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dwt_multiresolution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/dwt_multiresolution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tkinter</find>
+      <find>Tkinter</find>
+      <find>reduce</find>
+      <find>functools</find>
+      <find>print</find>
+      <find>xrange</find>
+      <find>_base</find>
+      <find>self.t</find>
+      <find>self.t0</find>
+      <find>sampler</find>
+      <find>self.state_shape</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>tkinter</replace>
+      <replace>range</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,16 +283,40 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+        <option value="$PROJECT_DIR$/data/__init__.py" />
+        <option value="$PROJECT_DIR$/data/SinSamplerDB/concat_half_base_B/__init__.py" />
+        <option value="$PROJECT_DIR$/data/SinSamplerDB/concat_half_base_A/__init__.py" />
+        <option value="$PROJECT_DIR$/data/PairSamplerDB/randjump_100,1(10, 30)[]_B/__init__.py" />
+        <option value="$PROJECT_DIR$/data/PairSamplerDB/randjump_100,1(10, 30)[]_A/__init__.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/Quickgraph/graph.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/Quickgraph/g.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/G/g.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/Tiles/fancytiles.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/Tiles/tilesdemo.py" />
+        <option value="$PROJECT_DIR$/../external/pywavelets/demo/dwt_signal_decomposition.py" />
+        <option value="$PROJECT_DIR$/../external/RLtoolkit/Tiles/tiles.py" />
+        <option value="$PROJECT_DIR$/scripts/edge_effect.py" />
+        <option value="$PROJECT_DIR$/../external/pywavelets/demo/dwt_windowed.py" />
+        <option value="$PROJECT_DIR$/scripts/edge_effects.py" />
+        <option value="$PROJECT_DIR$/scripts/dwt_windowed.py" />
         <option value="$PROJECT_DIR$/scripts/dwt_multiresolution.py" />
         <option value="$PROJECT_DIR$/scripts/dwt_no_edge_effects.py" />
+        <option value="$PROJECT_DIR$/src/emulator.py" />
+        <option value="$PROJECT_DIR$/src/visualizer.py" />
+        <option value="$PROJECT_DIR$/src/agents.py" />
+        <option value="$PROJECT_DIR$/src/sampler.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/simulators.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="42" />
-    <option name="y" value="23" />
-    <option name="width" value="1240" />
-    <option name="height" value="777" />
+    <option name="x" value="2159" />
+    <option name="y" value="119" />
+    <option name="width" value="1853" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -87,14 +333,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
               <item name="RL_trading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL_trading" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
@@ -108,17 +357,40 @@
             <path>
               <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (~/anaconda3/envs/tensorflow/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="&lt; Python 3.5.2 (~/.conda/envs/tensorflow/bin/python) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.2 (~/.conda/envs/tensorflow/bin/python) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="external" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RL_trading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.2 (~/.conda/envs/tensorflow/bin/python) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="external" type="462c0819:PsiDirectoryNode" />
+              <item name="pywavelets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,8 +404,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in dwt_multiresolution.py">
-    <configuration name="Nosetests for dwt_multiresolution.test_dwt_multiresolution" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -145,10 +417,10 @@
       <module name="RL_trading" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;dwt_multiresolution.test_dwt_multiresolution&quot;" />
+      <option name="_new_target" value="&quot;dwt_no_edge_effects.test_dwt_no_edge_effects&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Nosetests in dwt_multiresolution.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Nosetests in dwt_no_edge_effects.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -160,22 +432,39 @@
       <module name="RL_trading" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/dwt_multiresolution.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/dwt_no_edge_effects.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="emulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dwt_multiresolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RL_trading" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/emulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/dwt_multiresolution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="dwt_windowed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../external/pywavelets/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RL_trading" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/dwt_windowed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,9 +475,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/tensorflow/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RL_trading" />
@@ -197,18 +486,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.emulator" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for dwt_multiresolution.test_dwt_multiresolution" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in dwt_multiresolution.py" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.dwt_windowed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in dwt_no_edge_effects.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dwt_multiresolution" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in dwt_multiresolution.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for dwt_multiresolution.test_dwt_multiresolution" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main" />
-        <item index="3" class="java.lang.String" itemvalue="Python.emulator" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in dwt_no_edge_effects.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dwt_multiresolution" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dwt_windowed" />
       </list>
     </recent_temporary>
   </component>
@@ -217,46 +508,67 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4915cdc9-7f23-4700-8e3a-5bc46c08c970" name="Default" comment="" />
-      <created>1531103039490</created>
+      <changelist id="bbd6f5f3-bb3d-4815-8449-935b239115b2" name="Default" comment="" />
+      <created>1528725027446</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531103039490</updated>
+      <updated>1528725027446</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_for_dwt_multiresolution_test_dwt_multiresolution - 2018.07.09 at 09h 21m 41s.xml">
-      <configuration name="Nosetests for dwt_multiresolution.test_dwt_multiresolution" configurationId="tests" />
+    <history-entry file="Nosetests_for_dwt_no_edge_effects_test_dwt_no_edge_effects - 2018.06.21 at 12h 42m 49s.xml">
+      <configuration name="Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_dwt_multiresolution_test_dwt_multiresolution - 2018.07.09 at 09h 22m 02s.xml">
-      <configuration name="Nosetests for dwt_multiresolution.test_dwt_multiresolution" configurationId="tests" />
+    <history-entry file="Nosetests_for_dwt_no_edge_effects_test_dwt_no_edge_effects - 2018.06.21 at 12h 43m 46s.xml">
+      <configuration name="Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_dwt_multiresolution_py - 2018.07.09 at 09h 22m 33s.xml">
-      <configuration name="Nosetests in dwt_multiresolution.py" configurationId="tests" />
+    <history-entry file="Nosetests_for_dwt_no_edge_effects_test_dwt_no_edge_effects - 2018.06.21 at 12h 51m 44s.xml">
+      <configuration name="Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_dwt_no_edge_effects_test_dwt_no_edge_effects - 2018.06.21 at 14h 27m 10s.xml">
+      <configuration name="Nosetests for dwt_no_edge_effects.test_dwt_no_edge_effects" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 12h 51m 38s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 12h 57m 58s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 13h 01m 20s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 13h 03m 21s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 14h 27m 00s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_dwt_no_edge_effects_py - 2018.06.21 at 14h 27m 03s.xml">
+      <configuration name="Nosetests in dwt_no_edge_effects.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1240" height="777" extended-state="6" />
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2106136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35602096" sideWeight="0.5041459" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35497382" sideWeight="0.49585405" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -267,74 +579,461 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/emulator.py</url>
-          <line>60</line>
+          <url>file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tilesdemo.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scripts/dwt_no_edge_effects.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tiles.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scripts/dwt_multiresolution.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/simulators.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="75" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lib.py">
+    <entry file="file://$PROJECT_DIR$/src/visualizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/dwt_windowed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="55" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="55" />
           <folding>
-            <element signature="e#0#53#0" expanded="false" />
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#2774#2787#0" expanded="false" />
+            <element signature="e#5859#6480#0" expanded="false" />
+            <element signature="e#6963#8322#0" expanded="false" />
+            <element signature="e#8346#8406#0" expanded="false" />
+            <element signature="e#8593#9351#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="36">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <element signature="e#243#1609#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tilesdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="142" column="39" lean-forward="false" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/dwt_windowed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="55" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="297" column="3" lean-forward="false" selection-start-line="297" selection-start-column="3" selection-end-line="297" selection-end-column="3" />
+          <folding>
+            <element signature="e#2774#2787#0" expanded="false" />
+            <element signature="e#5859#6480#0" expanded="false" />
+            <element signature="e#6963#8322#0" expanded="false" />
+            <element signature="e#8346#8406#0" expanded="false" />
+            <element signature="e#8593#9351#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <element signature="e#243#1609#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/emulator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/dwt_no_edge_effects.py">
+    <entry file="file://$PROJECT_DIR$/src/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/PairSamplerDB/randjump_100,1(10, 30)[]_A/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/PairSamplerDB/randjump_100,1(10, 30)[]_B/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SinSamplerDB/concat_half_base_A/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SinSamplerDB/concat_half_base_B/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Quickgraph/g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="513" column="13" lean-forward="false" selection-start-line="513" selection-start-column="8" selection-end-line="513" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Quickgraph/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/G/g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1217" column="31" lean-forward="true" selection-start-line="1217" selection-start-column="31" selection-end-line="1217" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/fancytiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="274" column="3" lean-forward="true" selection-start-line="274" selection-start-column="3" selection-end-line="274" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/pywavelets/demo/dwt_swt_show_coeffs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/pywavelets/demo/wp_2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/pywavelets/demo/plot_wavelets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8041">
+          <caret line="6386" column="0" lean-forward="false" selection-start-line="6386" selection-start-column="0" selection-end-line="6386" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="4602" column="0" lean-forward="false" selection-start-line="4602" selection-start-column="0" selection-end-line="4602" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#2774#2787#0" expanded="false" />
+            <element signature="e#5859#6480#0" expanded="false" />
+            <element signature="e#6963#8322#0" expanded="false" />
+            <element signature="e#8346#8406#0" expanded="false" />
+            <element signature="e#8593#9351#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="3079" column="0" lean-forward="false" selection-start-line="3079" selection-start-column="0" selection-end-line="3079" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/edge_effects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="89" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/RLtoolkit/Tiles/tilesdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="104" column="19" lean-forward="false" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_nosetest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../external/pywavelets/demo/dwt_signal_decomposition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/dwt_windowed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="33" column="76" lean-forward="false" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/dwt_multiresolution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="174">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/dwt_no_edge_effects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="72" column="30" lean-forward="false" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/tensorflow/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#1414#4054#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#1812#3267#0" expanded="false" />
+            <element signature="e#4019#4795#0" expanded="false" />
+            <element signature="e#4831#5055#0" expanded="false" />
+            <element signature="e#5087#5309#0" expanded="false" />
+            <element signature="e#5345#6516#0" expanded="false" />
+            <element signature="e#6557#7665#0" expanded="false" />
+            <element signature="e#7708#8044#0" expanded="false" />
+            <element signature="e#8084#8418#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+          <folding>
+            <element signature="e#243#1609#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -75,22 +75,26 @@ def main():
 	n_episode_training = 200
 	n_episode_testing = 100
 	open_cost = 3.3
-	#db_type = 'SinSamplerDB'; db = 'concat_half_base_'; Sampler = SinSampler
-	db_type = 	'BTCsampler'
-	db 		= 	'db_bitcoin.pickle'
-	Sampler = 	BTCsampler
+	db_type = 'SinSamplerDB'; db = 'concat_half_base_'; Sampler = SinSampler
+	#db_type = 	'BTCsampler'; db = 'db_bitcoin.pickle'; Sampler = BTCsampler
+	# Agent's options
 	batch_size 		= 	8
-	learning_rate 	= 	1e-4
+	learning_rate 	= 	1e-2
 	discount_factor = 	0.8
 	exploration_decay = 0.99
 	exploration_min = 	0.01
-	window_state 	= 	33
+	buffer_size 	=	200
+	# Environment's options
+	window_state 	= 	32
+	time_difference = 	True
+	wavelet_transform=	True
 
 	fld = os.path.join('..', 'data', db_type, db + 'A')
 	if db_type == 'BTCsampler':
 		fld = os.path.join('..', 'data',db_type,db)
-	sampler = Sampler('load', fld=fld, variables=['Close'])
-	env = Market(sampler, window_state, open_cost)
+	sampler = Sampler('single', period_range=(35,40), amplitude_range=(5,80), window_episode=180,
+					  noise_amplitude_ratio=0, fld=fld, variables=['Close'])
+	env = Market(sampler, window_state, open_cost, time_difference=time_difference, wavelet_transform=wavelet_transform)
 	model, print_t = get_model(model_type, env, learning_rate, fld_load)
 	model.model.summary()
 	#return

@@ -36,7 +36,7 @@ class Simulator:
 				self.agent.remember(state, action, reward, next_state, done, valid_actions)
 				self.agent.replay()
 
-			state = next_state
+			state 			= 	next_state
 
 		return cum_rewards, actions, states
 
@@ -53,25 +53,34 @@ class Simulator:
 		fld_save = os.path.join(self.fld_save,'training')
 
 		makedirs(fld_save)
-		MA_window = 100		# MA of performance
-		safe_total_rewards = []
-		explored_total_rewards = []
-		explorations = []
-		path_record = os.path.join(fld_save,'record.csv')
+		MA_window 				= 	100		# MA of performance
+		safe_total_rewards 		= 	[]
+		explored_total_rewards 	= 	[]
+		test_total_rewards 		= 	[]
+		explorations 			= 	[]
+		path_record 			= 	os.path.join(fld_save,'record.csv')
 
 		with open(path_record,'w') as f:
 			f.write('episode,game,exploration,explored,safe,MA_explored,MA_safe\n')
 
+		FF 	= 	plt.figure()
+		AX 	=	FF.add_subplot(111)
+		AX.set_xlabel('Training iteration')
+		AX.set_ylabel('Test reward')
+		FF.show()
+
 		for n in range(n_episode):
 
 			print('\ntraining...')
-			exploration = max(exploration_min, exploration * exploration_decay)
+			#exploration = max(exploration_min, exploration * exploration_decay)
+			exploration = 0.7*np.exp(-0.1*n)+0.1
 			explorations.append(exploration)
 			explored_cum_rewards, explored_actions, _ = self.play_one_episode(exploration, print_t=print_t)
 			explored_total_rewards.append(100.*explored_cum_rewards[-1]/self.env.max_profit)
 			safe_cum_rewards, safe_actions, _ = self.play_one_episode(0, training=False, rand_price=False, print_t=False)
 			safe_total_rewards.append(100.*safe_cum_rewards[-1]/self.env.max_profit)
-
+			test_cum_rewards, test_actions, _ 	= self.play_one_episode(0, training=False, rand_price=True, print_t=False)
+			test_total_rewards.append( test_cum_rewards[-1] )
 			MA_total_rewards = np.median(explored_total_rewards[-MA_window:])
 			MA_safe_total_rewards = np.median(safe_total_rewards[-MA_window:])
 
@@ -103,8 +112,8 @@ class Simulator:
 					MA_window)
 					"""
 
-
-
+			AX.plot( list(range(n+1)), test_total_rewards)
+			FF.canvas.draw()
 
 	def test(self, n_episode, save_per_episode=10, subfld='testing'):
 
