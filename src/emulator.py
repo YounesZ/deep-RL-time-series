@@ -52,10 +52,10 @@ class Market:
 		# --- Time-Differentiation
 		if self.time_difference:
 			state	=	state[1:,:] - state[:-1,:]
-		else:
-			for i in range(self.sampler.n_var):
-				norm= 	np.mean(state[:,i])
-				state[:,i] = (state[:,i]/norm - 1.)*100
+		# --- Column-wise normalization
+		for i in range(self.sampler.n_var):
+			norm= 	np.mean(state[:,i])
+			state[:,i] = (state[:,i]/norm - 1.)#*100
 		# --- Wavelet-transform
 		if self.wavelet_transform:
 			nWav 	=	int( np.log(len(state))/np.log(2) - 1 )
